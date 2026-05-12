@@ -10,10 +10,10 @@ This project systematically compares four activation functions — ReLU, GELU, S
 ## Repository Structure
 ```
 .
-├── template_RELU.ipynb       # ReLU experiments (4 regularizers × 2 seeds, 200 epochs)
-├── GELU.ipynb                # GELU experiments (4 regularizers × 2 seeds, 200 epochs)
-├── SwigluTemplate.ipynb      # SwiGLU experiments (4 regularizers × 2 seeds, 200 epochs)
-└── Ml_Project_.ipynb         # SiLU experiments (4 regularizers, 100 epochs)
+├── template_RELU_run.ipynb   # ReLU experiments (4 regularizers × 2 seeds, 200 epochs)
+├── template_GELU_run.ipynb   # GELU experiments (4 regularizers × 2 seeds, 200 epochs)
+├── template_Swiglu_run.ipynb # SwiGLU experiments (4 regularizers × 2 seeds, 200 epochs)
+└── template_SILU_run.ipynb   # SiLU experiments (4 regularizers, 100 epochs)
 ```
 
 ## Dataset
